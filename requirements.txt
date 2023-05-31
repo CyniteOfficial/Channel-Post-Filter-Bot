@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+motor[srv] 
+cinemagoer
+aiohttp
+aiofiles
+asyncio
