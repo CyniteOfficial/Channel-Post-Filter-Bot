@@ -20,6 +20,6 @@ class Bot(Client):
         await super().start()        
         await User.start()
         Popen("python3 -m utils.delete", shell=True)       
-        print("Bot Started 🔧 Powered By @TechnicalCynite")   
+        print("Bot Started 🔧 Powered By @ROYAL_PREET_MEHRA_7868")   
     async def stop(self, *args):
         await super().stop()
